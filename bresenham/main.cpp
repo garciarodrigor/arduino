@@ -29,7 +29,7 @@ void carterToBipolar(int x, int y)
         p2= l2;    //pasos 2
 
 
-    printf("cart(%d,%d)\tbipol(%d,%d)\t D(%d,%d) \n",x,y,l1,l2,d1,d2);
+    printf("cart (%d,%d)\tbipol(%d,%d)\t D(%d,%d) \n",x,y,l1,l2,d1,d2);
 
 }
 
