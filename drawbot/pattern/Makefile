@@ -1,5 +1,6 @@
 BOARD       ?= nano328
-SOURCES     ?= main.cc
+TARGET      ?= main
+SOURCES     ?= $(TARGET).cc
 ROOT        ?= $(CURDIR)/../../
 #LIBRARYPATH := $(ROOT)/libs
 LIBRARIES   ?= Stepper
