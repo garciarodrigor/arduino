@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <rgb.h>
 
-//rgb black;
 rgb_t black;
 
 void setup()
